@@ -1,4 +1,4 @@
-## Olá, meu nome é Giovanni 👋🏻
+## Hello, my name is Giovanni 👋🏻
 
 I am a software developer who is passionate about creating high-quality and innovative solutions. With 2 years of experience in development, I have worked with various programming languages and technologies, including Genexus, PHP, HTML, CSS, JS, and SQL.
 
